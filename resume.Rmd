@@ -14,13 +14,15 @@ Master of Public Health in Epidemiology (09/2023 - 05/2025)
 
 Certificate in Applied Biostatistics and Public Health Data Sciences
 
+Coursework: Applications of Epidemiologic Research Methods, Biostatistics Research Method, Design and Conduct of Observational Epidemiological Studies, Clinical Epidemiology, Analysis of Categorical Data.
+
 **University of Toronto**, Toronto, Canada
 
 Honours Bachelor of Science (09/2019 - 07/2023)
 
 Major in Health & Diseases and Immunology, minor in Biology
 
-
+Coursework: Epidemiology, Immunology, Nutritional Science, Neuroscience, Genetics, Biochemistry, Statistics. 
 
 ### PUBLICATIONS
 
@@ -57,4 +59,12 @@ Columbia University | Supervisor: Dr. Jeffrey Birk and Dr. Talea Cornelius
 **In-depth Research of the Association Between Obesity and Hepatocellular Carcinoma (HCC)** (02/2022 - 04/2022)
 
 University of Toronto | Supervisor: Dr. Laurie Ricciuto
+
+### SKILLS
+
+**Programming Languages**: SAS, R, STATA, SQL, Python, LaTeX, and MATLAB
+
+**Software & Techniques**: Tableau, Excel (VLOOKUP, Pivot Tables, VBA), RedCap, and Epi Info
+
+**Language**: Fluent in Mandarin
 
