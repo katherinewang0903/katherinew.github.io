@@ -7,14 +7,12 @@ output:
     toc_float: true
 ---
 
-## Introduction
-
 Hello! I'm Katherine, and welcome to my personal website. I'm a curious soul with a love for data science, exploring new places, and spending time with my furry best friend. My research interests lie in **cancer epidemiology**, where I work to understand how lifestyle factors influence cancer risk.
 
 
 ## About Me
 
-To learn more about my academic background and professional experience, visit my [About](about.html).
+To learn more about my academic background and professional experience, visit my [About page](about.html).
 
 ## My Hobbies
 
@@ -28,8 +26,8 @@ I absolutely love traveling! I've been fortunate enough to visit over 20 countri
 
 <img src="images/travel.jpg" style="width:50%;">
 
-### My Pet Dog: Mochi
-Meet Mochi! Mochi is my 7-year-old mini schnauzer, and he's my bundle of joy. Mochi loves long walks, playing fetch, and making new friends at dog park. Everyone likes his long and beautiful eyelashes!
+### My Pet Dog: Mochi 
+Meet Mochi! Mochi is my 7-year-old mini schnauzer, and he's my bundle of joy. Mochi loves long walks, playing fetch, and making new friends at dog park. Everyone likes his long and beautiful eyelashes! wer~
 
 <img src="images/mochi.jpg" style="width:35%;">
 
@@ -39,4 +37,3 @@ Feel free to connect with me on LinkedIn or via email:
 
 - [LinkedIn](https://www.linkedin.com/in/katherine-d-w-962b4a201/)
 - Email: [dw3093@cumc.columbia.edu](mailto:dw3093@cumc.columbia.edu)
-

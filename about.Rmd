@@ -68,3 +68,5 @@ University of Toronto | Supervisor: Dr. Laurie Ricciuto
 
 **Language**: Fluent in Mandarin
 
+Go [home](index.html)
+
