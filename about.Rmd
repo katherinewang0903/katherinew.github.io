@@ -2,71 +2,60 @@
 title: "ABOUT Katherine"
 output: 
   html_document:
+    theme: cerulean
     toc: true
     toc_float: true
 ---
+Here you'll find information about my education, research experience, publications, and skills.
 
-### EDUCATION
+## Education
 
-**Columbia University**, New York, United States
-
-Master of Public Health in Epidemiology (09/2023 - 05/2025)
-
-Certificate in Applied Biostatistics and Public Health Data Sciences
-
+**Columbia University**, New York, United States  
+*Master of Public Health in Epidemiology* (09/2023 - 05/2025)  
+Certificate in Applied Biostatistics and Public Health Data Sciences  
 Coursework: Applications of Epidemiologic Research Methods, Biostatistics Research Method, Design and Conduct of Observational Epidemiological Studies, Clinical Epidemiology, Analysis of Categorical Data.
 
-**University of Toronto**, Toronto, Canada
+**University of Toronto**, Toronto, Canada  
+*Honours Bachelor of Science* (09/2019 - 07/2023)  
+Major in Health & Diseases and Immunology, Minor in Biology  
+Coursework: Epidemiology, Immunology, Nutritional Science, Neuroscience, Genetics, Biochemistry, Statistics.
 
-Honours Bachelor of Science (09/2019 - 07/2023)
+## Publications
 
-Major in Health & Diseases and Immunology, minor in Biology
+### Published
+- Han, L., Gong, F., Wu, X., Tang, W., Bao, H., Wang, Y., **Wang, D.**, Sun, Y., & Li, P. (2024). Comprehensive characterization of PKHD1 mutation in human colon cancer. *Cancer Medicine*, 10.1002/cam4.6796.
 
-Coursework: Epidemiology, Immunology, Nutritional Science, Neuroscience, Genetics, Biochemistry, Statistics. 
+### In Progress
+- **Wang, D.**, & Genkinger, J. M. (in progress). Consumption of Ultra-Processed Foods and Adherence to the World Cancer Research Fund (WCRF) Recommendations and Pancreatic Cancer Risk: A Pooled Analysis of 24 Cohort Studies. Columbia University, Mailman School of Public Health.
 
-### PUBLICATIONS
+## Research Experience
 
-**Published**
-
-Han, L., Gong, F., Wu, X., Tang, W., Bao, H., Wang, Y., **Wang, D.**, Sun, Y., & Li, P. (2024). Comprehensive characterization of PKHD1 mutation in human colon cancer. Cancer medicine, 10.1002/cam4.6796. 
-
-**In Progress**
-
-**Wang, D.**, & Genkinger, J. M. (in progress). Consumption of Ultra-Processed Foods and Adherence to the World Cancer Research Fund (WCRF) Recommendations and Pancreatic Cancer Risk: A Pooled Analysis of 24 Cohort Studies. Columbia University, Mailman School of Public Health.
-
-
-### RESEARCH EXPERIENCE
-
-**Pooling Project of Prospective Studies of Diet and Cancer (DCPP)** (06/2024 - present)
-
+**Pooling Project of Prospective Studies of Diet and Cancer (DCPP)** (06/2024 - present)  
 Supervisor: Dr. Jeanine Genkinger, New York, United States
 
-**Database Shared Resource (DBSR)** (06/2024 - present)
-
+**Database Shared Resource (DBSR)** (06/2024 - present)  
 Supervisor: Dr. Jeanine Genkinger, New York, United States
 
-**Genomic and Clinical Epidemiology Research on PKHD1 Mutations in Colon Cancer** (01/2023- 07/2023)
-
+**Genomic and Clinical Epidemiology Research on PKHD1 Mutations in Colon Cancer** (01/2023 - 07/2023)  
 Supervisor: Dr. Hua Bao, Toronto, Canada
 
-### RELEVANT TRAINING
-**Systematic Review and Meta-Analysis of Pain Response in SBRT vs. cEBRT for Bone Metastases** (08/2024)
+## Relevant Training
 
-Columbia University | Supervisor: Dr. Jeffrey Birk and Dr. Talea Cornelius
+**Systematic Review and Meta-Analysis of Pain Response in SBRT vs. cEBRT for Bone Metastases** (08/2024)  
+Columbia University | Supervisors: Dr. Jeffrey Birk and Dr. Talea Cornelius
 
-### RELEVANT PROJECTS
+## Relevant Projects
 
-**In-depth Research of the Association Between Obesity and Hepatocellular Carcinoma (HCC)** (02/2022 - 04/2022)
-
+**In-depth Research of the Association Between Obesity and Hepatocellular Carcinoma (HCC)** (02/2022 - 04/2022)  
 University of Toronto | Supervisor: Dr. Laurie Ricciuto
 
-### SKILLS
+## Skills
 
-**Programming Languages**: SAS, R, STATA, SQL, Python, LaTeX, and MATLAB
+**Programming Languages**: SAS, R, STATA, SQL, Python, LaTeX, MATLAB  
+**Software & Techniques**: Tableau, Excel (VLOOKUP, Pivot Tables, VBA), RedCap, Epi Info  
+**Languages**: Fluent in Mandarin
 
-**Software & Techniques**: Tableau, Excel (VLOOKUP, Pivot Tables, VBA), RedCap, and Epi Info
+## Navigation
 
-**Language**: Fluent in Mandarin
-
-Go [home](index.html)
+Go [Home](index.html)
 
