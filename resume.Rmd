@@ -28,11 +28,11 @@ Coursework: Epidemiology, Immunology, Nutritional Science, Neuroscience, Genetic
 
 **Published**
 
-Han, L., Gong, F., Wu, X., Tang, W., Bao, H., Wang, Y., *Wang, D.*, Sun, Y., & Li, P. (2024). Comprehensive characterization of PKHD1 mutation in human colon cancer. Cancer medicine, 10.1002/cam4.6796. 
+Han, L., Gong, F., Wu, X., Tang, W., Bao, H., Wang, Y., **Wang, D.**, Sun, Y., & Li, P. (2024). Comprehensive characterization of PKHD1 mutation in human colon cancer. Cancer medicine, 10.1002/cam4.6796. 
 
 **In Progress**
 
-*Wang, D.*, & Genkinger, J. M. (in progress). Consumption of Ultra-Processed Foods and Adherence to the World Cancer Research Fund (WCRF) Recommendations and Pancreatic Cancer Risk: A Pooled Analysis of 24 Cohort Studies. Columbia University, Mailman School of Public Health.
+**Wang, D.**, & Genkinger, J. M. (in progress). Consumption of Ultra-Processed Foods and Adherence to the World Cancer Research Fund (WCRF) Recommendations and Pancreatic Cancer Risk: A Pooled Analysis of 24 Cohort Studies. Columbia University, Mailman School of Public Health.
 
 
 ### RESEARCH EXPERIENCE
