@@ -78,6 +78,7 @@ plot_ly(
     showlegend = FALSE
   )
 ```
+
 ### Chart C
 ```{r}
 clean_ny <- clean_ny %>%
@@ -101,6 +102,3 @@ plot_ly(
     showlegend = TRUE
   )
 ```
-
-### Neviagtion
-Go [Home](index.html)
