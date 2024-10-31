@@ -19,17 +19,17 @@ To learn more about my academic background and professional experience, visit my
 ### Golf
 One of my favorite activities is playing golf. I find it both challenging and relaxing, and it's a great way to spend time in the fresh air and connect with friends.
 
-<img src="images/golf.jpg" style="width:50%;">
+<img src="images/golf.jpg" style="width:60%;">
 
 ### Traveling
 I absolutely love traveling! I've been fortunate enough to visit over 20 countries, experiencing new cultures, tasting delicious cuisines, and making wonderful memories. There's nothing quite like the thrill of exploring a new city or discovering a hidden gem.
 
-<img src="images/travel.jpg" style="width:50%;">
+<img src="images/travel.jpg" style="width:60%;">
 
 ### Pet Dog: Mochi 
 Meet Mochi! Mochi is my 7-year-old mini schnauzer, and he's my bundle of joy. Mochi loves long walks, playing fetch, and making new friends at dog park. Everyone likes his long and beautiful eyelashes! wer~
 
-<img src="images/mochi.jpg" style="width:35%;">
+<img src="images/mochi.jpg" style="width:50%;">
 
 ## Contact
 
