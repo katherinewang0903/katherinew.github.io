@@ -50,7 +50,7 @@ Columbia University | Supervisors: Dr. Jeffrey Birk and Dr. Talea Cornelius
 University of Toronto | Supervisor: Dr. Laurie Ricciuto
 
 ## Skills
-
+c
 **Programming Languages**: SAS, R, STATA, SQL, Python, LaTeX, MATLAB  
 **Software & Techniques**: Tableau, Excel (VLOOKUP, Pivot Tables, VBA), RedCap, Epi Info  
 **Languages**: Fluent in Mandarin
