@@ -1,0 +1,22 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home page"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Dashboard"
+      href: dashboard.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:dw3093@cumc.columbia.edu
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/katherine-d-w-962b4a201/
+    - icon: fa-github fa-lg
+      href: https://github.com/katherinewang0903/katherinew.github.io
+
+output:
+  html_document:
+    theme: flatly
