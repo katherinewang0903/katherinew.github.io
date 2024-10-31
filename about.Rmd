@@ -55,7 +55,4 @@ c
 **Software & Techniques**: Tableau, Excel (VLOOKUP, Pivot Tables, VBA), RedCap, Epi Info  
 **Languages**: Fluent in Mandarin
 
-## Navigation
-
 Go [Home](index.html)
-

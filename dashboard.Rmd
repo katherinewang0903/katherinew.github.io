@@ -30,7 +30,7 @@ clean_ny = ny_noaa %>%
 filter(
     date >= as.Date("2008-01-01") & date <= as.Date("2008-12-31"))
 ```
-Column {data-width=650}
+Column {data-width=550}
 -----------------------------------------------------------------------
 
 ### Chart A
@@ -52,7 +52,7 @@ plot_ly(
   )
 
 ```
-Column {data-width=350}
+Column {data-width=450}
 -----------------------------------------------------------------------
 
 ### Chart B
@@ -77,7 +77,6 @@ plot_ly(
     yaxis = list(title = "Total Precipitation (mm)"),
     showlegend = FALSE
   )
-
 ```
 ### Chart C
 ```{r}
@@ -96,10 +95,10 @@ plot_ly(
   marker = list(size = 6, opacity = 0.7) 
 ) %>%
   layout(
-    title = "Scatter Plot of Maximum Temperature vs. Minimum Temperature in New York (2008)",
+    title = "Max Temperature vs. Min Temperature in New York (2008)",
     xaxis = list(title = "Min Temperature (°C)"),
     yaxis = list(title = "Max Temperature (°C)"),
     showlegend = TRUE
   )
 ```
-
+Go [Home](index.html)
