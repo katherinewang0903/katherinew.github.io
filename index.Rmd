@@ -14,8 +14,6 @@ Hello! I'm Katherine, and welcome to my personal website. I'm a curious soul wit
 
 To learn more about my academic background and professional experience, visit my [About page](about.html).
 
-## My Hobbies
-
 ### Golf
 One of my favorite activities is playing golf. I find it both challenging and relaxing, and it's a great way to spend time in the fresh air and connect with friends.
 
@@ -36,4 +34,4 @@ Meet Mochi! Mochi is my 7-year-old mini schnauzer, and he's my bundle of joy. Mo
 - **Phone**: (905) 617-8903
 - **LinkedIn**: [linkedin.com/in/katherine-d-w-962b4a201](https://www.linkedin.com/in/katherine-d-w-962b4a201/)
 - **Email**: [dw3093@cumc.columbia.edu](mailto:dw3093@cumc.columbia.edu)
-- **GitHub**: [github.com/katherinewang0903/katherinew.github.io](https://github.com/katherinewang0903/katherinew.github.io)
+- **GitHub**: [github.com/katherinewang0903](https://github.com/katherinewang0903)

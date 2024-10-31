@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home page"
+  title: "Home Page"
   right:
     - text: "About Me"
       href: about.html
@@ -12,7 +12,7 @@ navbar:
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/katherine-d-w-962b4a201/
     - icon: fa-github fa-lg
-      href: https://github.com/katherinewang0903/katherinew.github.io
+      href: https://github.com/katherinewang0903
 
 output:
   html_document:

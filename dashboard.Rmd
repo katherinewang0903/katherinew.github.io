@@ -33,7 +33,7 @@ filter(
 Column {data-width=550}
 -----------------------------------------------------------------------
 
-### Chart A
+### Chart A: Box Plot
 ```{r}
 plot_ly(
   data = clean_ny,
@@ -44,7 +44,7 @@ plot_ly(
   color = ~month, 
   colors = "viridis",
   marker = list(size = 4)
-) %>%
+  ) %>%
   layout(
     title = "Monthly Distribution of Maximum Temperature in New York (2008)",
     xaxis = list(title = "Month"),
@@ -55,14 +55,13 @@ plot_ly(
 Column {data-width=450}
 -----------------------------------------------------------------------
 
-### Chart B
+### Chart B: Bar Plot
 ```{r}
 monthly_pre = clean_ny %>% 
   filter(!is.na(prcp)) %>% 
   group_by(month) %>% 
   summarise(total_prcp = sum(prcp, na.rm = TRUE))
 
-# Create bar plot using plotly
 plot_ly(
   data = monthly_pre,
   x = ~month,
@@ -79,7 +78,7 @@ plot_ly(
   )
 ```
 
-### Chart C
+### Chart C: Scatter Plot
 ```{r}
 clean_ny <- clean_ny %>%
   mutate(text_label = str_c("Min Temp: ", tmin, "°C\nMax Temp: ", tmax, "°C"))
